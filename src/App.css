@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+h6{
+  height:0px;
+}
+
+button{
+  border-style: solid;
+  border-radius: 20px;
+  height: 50px;
+  width: 150px;
+}
+button:hover{
+  cursor: pointer;
+  background-color: black;
+  color: wheat;
+}
+body{
+  background-image: linear-gradient(to top right,green,white);
+  background-size: cover;
+}
+
+input{
+  height: 40px;
+  width: 400px;
+  border-style: solid;
+  border-radius: 50px;
+}
+.ig{
+  border-radius: 10px;
+  height: 30px;
+  margin-right: 20px;
+}
